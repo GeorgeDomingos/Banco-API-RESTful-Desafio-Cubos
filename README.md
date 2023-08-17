@@ -4,7 +4,6 @@ O projeto foi criado para aplicar os conceitos de APIRESTful em JavaScript reali
 
 
 
-
 ## Instalação
 
 1. Clone o repositório para sua máquina.
