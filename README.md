@@ -1,6 +1,6 @@
 # API Banco Cubos
 
-O projeto foi criado para aplicar os conceitos de APIRESTful em JavaScript realizando as operações básicas como listagem, criação de contas bancárias, atualização de dados de conta, exclusão de conta, depósito, saque, tranferência entre contas, exibição de saldo e extrato de transações.
+O projeto foi criado para aplicar os conceitos de APIRESTful em JavaScript realizando as operações básicas como listagem, criação de contas bancárias, atualização de dados de conta, exclusão de conta, depósito, saque, transferência entre contas, exibição de saldo e extrato de transações.
 
 
 
